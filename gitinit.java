@@ -9,6 +9,9 @@ public class gitinit {
 		int a=10;
 		int b=100;
 		
+		int c=1000;
+		int d=a+b;
+		
 		
 		
 		
